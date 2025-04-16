@@ -1,0 +1,13 @@
+4 3 9
+KSTU
+abc
+K->S
+S->bTba
+S->a
+T->cSa
+T->a
+S->Ua
+S->c
+U->bS
+U->
+K

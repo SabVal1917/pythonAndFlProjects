@@ -1,0 +1,7 @@
+python >= 3.6
+unittest
+random
+abc
+pathlib
+sys
+argparse
